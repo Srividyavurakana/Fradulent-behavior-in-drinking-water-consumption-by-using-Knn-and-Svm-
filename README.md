@@ -237,7 +237,7 @@ python app.py
 
 ### 🔐 Login & Registration
 
-![Login Page](screenshots/login.png)
+![Login Page]("C:\Users\SriVidya\Downloads\login.png")
 ![Signup Page](screenshots/signup.png)
 
 ### 📊 Dashboard
