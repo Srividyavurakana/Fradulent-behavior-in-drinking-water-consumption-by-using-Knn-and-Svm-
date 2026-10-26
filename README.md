@@ -238,22 +238,22 @@ python app.py
 ### 🔐 Login & Registration
 
 ![Login Page]("C:\Users\SriVidya\Downloads\login.png")
-![Signup Page](screenshots/signup.png)
+![Signup Page](https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/signup.png)
 
 ### 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
-![Dashboard](screenshots/dashboard2.png)
+![Dashboard](https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/dashboard.png)
+![Dashboard]("C:\Users\SriVidya\Downloads\dashboard2.png")
 
 ### 🔮 Prediction Options
 
-![Single and Bulk Upload](screenshots/single_and_bulk_uploads.png)
+![Single and Bulk Upload]("C:\Users\SriVidya\Downloads\single_and_bulk_uploads.png")
 
 ### 👤 Single Customer Prediction
 
-![Single Prediction Form](screenshots/single_prediction.png)
-![Non-Fraud Result](screenshots/single_non_fraud.png)
-![Fraud Result](screenshots/single_fraud.png)
+![Single Prediction Form]("C:\Users\SriVidya\Downloads\single_fraud.png")
+![Non-Fraud Result]("C:\Users\SriVidya\Downloads\single_non_fraud.png")
+![Fraud Result]("C:\Users\SriVidya\Downloads\single_fraud (1).png)
 
 ### 📁 Bulk Prediction
 
@@ -263,9 +263,9 @@ python app.py
 
 ## 👤 Author
 
-Developed as an academic project by : 
-NL Pavani,
+Developed as an academic project by : ,
 Vurakana Srividya, 
+NL Pavani
 Minamreddy meghana,
 Harivaram Naga kavitha.
 
