@@ -237,23 +237,23 @@ python app.py
 
 ### 🔐 Login & Registration
 
-![Login Page]("C:\Users\SriVidya\Downloads\login.png")
+![Login Page]("https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/login.png")
 ![Signup Page](https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/signup.png)
 
 ### 📊 Dashboard
 
 ![Dashboard](https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/dashboard.png)
-![Dashboard]("C:\Users\SriVidya\Downloads\dashboard2.png")
+![Dashboard]("https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/dashboard2.png")
 
 ### 🔮 Prediction Options
 
-![Single and Bulk Upload]("C:\Users\SriVidya\Downloads\single_and_bulk_uploads.png")
+![Single and Bulk Upload]("https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/single_and_bulk_uploads.png?raw=true")
 
 ### 👤 Single Customer Prediction
 
-![Single Prediction Form]("C:\Users\SriVidya\Downloads\single_fraud.png")
-![Non-Fraud Result]("C:\Users\SriVidya\Downloads\single_non_fraud.png")
-![Fraud Result]("C:\Users\SriVidya\Downloads\single_fraud (1).png)
+![Single Prediction Form]("https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/single_prediction.png?raw=true")
+![Non-Fraud Result]("https://github.com/NLPavani/water-fraud-detection/blob/main/screenshots/single_non_fraud.png?raw=true")
+![Fraud Result]("C:\Users\SriVidya\Downloads\single_fraud (1).png")
 
 ### 📁 Bulk Prediction
 
@@ -272,6 +272,6 @@ Harivaram Naga kavitha.
 **Project:** Detection of Fraudulent Behaviour in Drinking Water Consumption
 Using KNN & SVM Algorithms
 
-© 2026 NL Pavani and Project Team All rights reserved.
+© 2026 Srividya and Project Team All rights reserved.
 
 This project is published for academic and portfolio purposes. The source code, machine learning models, documentation, and project materials are the original work of the author. Unauthorized copying, redistribution, or claiming this project as one's own is prohibited.
