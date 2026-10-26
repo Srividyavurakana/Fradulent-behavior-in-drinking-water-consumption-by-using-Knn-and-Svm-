@@ -257,13 +257,13 @@ python app.py
 
 ### 📁 Bulk Prediction
 
-![Bulk Prediction Results](screenshots/bulk_results.png)
-![Bulk Prediction Results](screenshots/bulk_non_fraud.png)
-![Bulk Prediction Results](screenshots/bulk_fraud.png)
+![Bulk Prediction Results](C:\Users\SriVidya\Downloads\bulk_results.png)
+![Bulk Prediction Results](C:\Users\SriVidya\Downloads\bulk_non_fraud.png)
+![Bulk Prediction Results](C:\Users\SriVidya\Downloads\bulk_fraud.png)
 
 ## 👤 Author
 
-Developed as an academic project by : ,
+Developed as an academic project by : 
 Vurakana Srividya, 
 NL Pavani
 Minamreddy meghana,
